@@ -6,7 +6,7 @@ searchItem.addEventListener('keyup',getSearchInput)
 let actors = [];
 async function fetchData(){
     try{
-        let res = await fetch('http://hp-api.herokuapp.com/api/characters')
+        let res = await fetch('https://hp-api.herokuapp.com/api/characters')
         actors = await res.json()
         showData(actors)
     }
