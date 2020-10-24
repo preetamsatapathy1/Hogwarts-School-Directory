@@ -5,3 +5,4 @@ Fetch api is used to get a list of characters from https://hp-api.herokuapp.com/
 
 A search feature is implemented on these characters.This project is created using only HTML,CSS and JavaScript.
 
+The demo of the built project can be visited here : https://preetamsatapathy1.github.io/Hogwarts-School-Directory/
